@@ -1,0 +1,46 @@
+body{ background-color:#FFF; 
+
+}
+
+h1{ color:#FFF;
+	font-size:50pt;
+	
+	background-color:#4EA4FF;
+}
+
+p { color:#FFF;
+	font-size:25pt;
+	
+	background-color:#4EA4FF;
+}
+
+th, td {
+	padding: 10px;	
+	
+}	
+
+th {
+	background-color:#FF8C00;
+	color:FFF;	
+	
+}	
+
+button { 
+		background-color:#FF8C00;
+		
+}	
+
+
+}	
+
+div{color:#000;
+	margin:40px;
+	
+	
+	
+}
+
+a{ color:#000;
+	font-size:15pt;
+	
+}	
